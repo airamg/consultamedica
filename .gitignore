@@ -1,0 +1,8 @@
+# Directorios de configuración del proyecto
+bin/*
+
+# Archivos de entornos de desarrollo y editores de texto
+.buildpath
+.idea
+.project
+.settings
